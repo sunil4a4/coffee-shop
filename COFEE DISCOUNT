@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+int main(){
+int x,p,sum;
+printf("enter coffe price:");
+scanf("%d",&x);
+printf("/tenter discount");
+scanf("%d",&p);
+while(x!=0){
+temp==x;
+sum=sum+x;
+x=temp-(x*(p/100));
+}
+sum++;
+printf("%d",sum);
+}
